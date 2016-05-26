@@ -1,0 +1,15 @@
+{
+  "name": "奇遇",
+  "app_id": "",
+  "createDocumentRoot": ".tmp",
+  "documentRoot": ".tmp",
+  "gulpDependantTasks": [
+    "serve"
+  ],
+  "gulpStartupTasks": [
+    "watch"
+  ],
+  "watchPatterns": [
+    "src/**/*"
+  ]
+}
